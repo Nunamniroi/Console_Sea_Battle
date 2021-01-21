@@ -1,0 +1,32 @@
+"Sea Battle" is a game for two participants, in which the players take turns giving the coordinates on the opponent's unknown map.
+If the opponent has a ship at these coordinates (the coordinates are occupied), then the ship or its part is "sunk".
+The player's goal is to be the first to sink all enemy ships.
+
+
+**** Rules for placing ships (fleet) ****
+The playing field is usually a 10 × 10 square for each player, on which a fleet of ships is located.
+Verticals are marked with letters from left to right, and horizontal lines are marked with numbers from top to bottom.
+In this case, the letters of the Latin alphabet from "A" to "J" are used.
+
+Placed:
+1 ship - a row of 4 cells ("four-deck"; battleship)
+2 ships - a row of 3 cells ("three-deck"; cruisers)
+3 ships - a row of 2 cells ("double-deck"; destroyers)
+4 ships - 1 cell ("single-deck"; torpedo boats)
+
+When placed, ships cannot touch each other with sides and corners.
+Next to "own" field is "foreign" of the same size, only empty. This is an area of ​​the sea where enemy ships sail.
+When it hits the enemy's ship, a cross is placed on a foreign field, when an empty shot is fired - 'O'.
+The most vulnerable are the battleship and the torpedo boat: the former due to its large size, and therefore relatively easy to find,
+and the second is due to the fact that it is drowned with one blow, although it is difficult to find it.
+
+
+**** Sinking enemy ships ****
+The player always moves first (since it is a complete shame to lose to my insanity - the player is given a head start).
+The player making the move makes a shot - enters the coordinates of the cell in which, in his opinion, the enemy ship is located, for example, "B1".
+!!Important!!
+The player must enter the coordinates as follows: first, the letter of the Latin alphabet, from A to J, with a capital letter, then a number, from 1 to 10.
+If the shot hits a cell that is not occupied by any enemy ship, then an "O" appears on someone else's square in this place.
+The right to move passes to the opponent.
+If the shot hit a cell where a multi-deck ship is located (larger than 1 cell), then an "X" appears on a foreign field in this cell.
+The winner is the one who sinks all 10 enemy ships first.

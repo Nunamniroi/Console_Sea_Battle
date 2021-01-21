@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\TheOne\source\repos\Semestor2\HomeWork\Ekzamen_project\Ekzamen_project\Main.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\TheOne\source\repos\Semestor2\HomeWork\Ekzamen_project\Ekzamen_project\Main.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+  Ekzamen_project.vcxproj -> C:\Users\TheOne\source\repos\Semestor2\HomeWork\Ekzamen_project\Debug\Ekzamen_project.exe

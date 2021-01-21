@@ -1,0 +1,8 @@
+﻿  Logic.cpp
+C:\Users\andre\Downloads\Telegram Desktop\Console_Sea_Battle\Ekzamen_project\Logic.cpp(17,24): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+C:\Users\andre\Downloads\Telegram Desktop\Console_Sea_Battle\Ekzamen_project\Logic.cpp(17,26): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+  Main.cpp
+C:\Users\andre\Downloads\Telegram Desktop\Console_Sea_Battle\Ekzamen_project\Main.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\andre\Downloads\Telegram Desktop\Console_Sea_Battle\Ekzamen_project\Main.cpp(153,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Ekzamen_project.vcxproj -> C:\Users\andre\Downloads\Telegram Desktop\Console_Sea_Battle\Debug\Console_Sea_Battle.exe
